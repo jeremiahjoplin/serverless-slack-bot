@@ -1,1 +1,1 @@
-#Serverless Slack Bot for forex
+# Serverless Slack Bot for forex

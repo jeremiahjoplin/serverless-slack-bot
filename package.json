@@ -1,0 +1,23 @@
+{
+  "name": "serverless-slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahjoplin/serverless-slack-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahjoplin/serverless-slack-bot/issues"
+  },
+  "homepage": "https://github.com/jeremiahjoplin/serverless-slack-bot#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3",
+    "aws-sdk": "^2.7.13"
+  }
+}
